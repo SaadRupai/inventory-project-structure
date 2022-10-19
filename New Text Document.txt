@@ -1,0 +1,26 @@
+Files:
+1. controllers
+2. helpers
+3. middlewares
+4. public/media
+5. routes
+6. services
+*.gitignore
+*.env
+*server.js
+*package,json
+7. node_modules
+
+dependencies:
+1. express
+2. helmet
+3. cors
+4. mongoose
+5. colors 
+6. jsonwebtoken
+7. express-jwt
+8. dotenv
+9. morgan
+10. multer
+11. validator
+12. bcryptjs
