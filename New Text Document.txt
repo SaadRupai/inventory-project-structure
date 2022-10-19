@@ -1,3 +1,5 @@
+Day-1
+
 Files:
 1. controllers
 2. helpers
@@ -24,3 +26,15 @@ dependencies:
 10. multer
 11. validator
 12. bcryptjs
+
+
+
+Day-2
+
+1. models>user.js and define schema, add timestamp & version-key and export
+2. try to keep as low code in controller as possible, rather shift it to services and models
+3. add object to schema in models> user.js
+4. this keyword use korle arrow function lekha jabena
+5. enum: array te je koyta dewa thakbe, tar moddhei ekta hote hobe.
+6. ekek route e hit korle ekek controller kaj korbe, sei controller specific service ke call korbe , service model ke call korbe
+and finally controller model nia kaj kore response pathabe
